@@ -10,4 +10,4 @@ const product = {
   description: "Compact and fast",
 };
 
-console.log(`Product: ${JSON.stringify(product)}`);
+console.log(`Product: ${JSON.stringify(products)}`);
