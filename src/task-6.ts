@@ -1,4 +1,4 @@
-function getFirstElement<T>(arr: T[]): T | undefined {
+function getFirstElement<T>(arr: T[]): T {
   return arr[0];
 }
 console.log(getFirstElement<number>([1, 2, 3])); // 1
